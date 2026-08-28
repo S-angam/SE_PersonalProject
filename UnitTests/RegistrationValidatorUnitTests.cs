@@ -7,7 +7,7 @@
  *
  * Project     = UnitTests
  *
- * Description = Unit tests for registration validation and its extensibility.
+ * Description = Unit tests for registration validation.
  *****************************************************************************/
 
 using System.Collections.Generic;
