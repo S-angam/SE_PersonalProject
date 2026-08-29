@@ -17,6 +17,11 @@ A registration contains:
 - Email address
 
 
+
+
+## UML Diagram
+![UML Diagmra](umldiagram.png)
+
 ## Build and Test
 
 
